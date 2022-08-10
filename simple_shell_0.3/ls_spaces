@@ -4,7 +4,7 @@
 
 command="ls
      ls
-ls     
+ls
  ls     "
 tmp_file="checker_tmp_file_$RANDOM"
 
